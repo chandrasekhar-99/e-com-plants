@@ -1,0 +1,42 @@
+.page-container{
+  display: flex;
+  flex-direction: row;
+  margin-left: 83px;
+  padding: 30px 0px 30px 0px;
+}
+
+.page{
+  padding:8px; 
+  cursor: pointer;
+}
+
+.page-button{
+  cursor: pointer;
+  background-color: #165315;
+  color:#ffffff;
+  border:none;
+  margin:3px;
+  padding:8px;
+  border-radius: 3px;
+}
+
+.page-button-2{
+  cursor: pointer;
+  background-color: #ffffff;
+  color: #144D14;
+  border:none;
+  margin:3px;
+  padding:8px;
+  border-radius: 3px;
+  border: 1px solid #165315;
+}
+
+.button-2{
+  background-color: #ACE1AF;
+  color:#000000;
+  border:none;
+  margin:3px;
+  padding:8px;
+  border-radius: 3px;
+  cursor: pointer;
+}
